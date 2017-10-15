@@ -1,0 +1,19 @@
+{
+  "name": "rssminder",
+  "version": "1.0.0",
+  "description": "rss crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.0.5",
+    "feedparser": "^2.2.2",
+    "fs-extra": "^4.0.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.19.1",
+    "r2": "^2.0.0"
+  }
+}
